@@ -1,0 +1,14 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "1.0.0",
+  "description": "A Command Line tool for creating Bitbucket Snippets",
+  "bin": {
+    "snippet": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Powers",
+  "license": "ISC"
+}
