@@ -10,13 +10,19 @@
 # if condition:
 #     Action
 
-Like = 0
-click = True
+# Like = 0
+# click = True
 
-if click:
-    Like += 1 
-    click = False
-    if Like >= 1:
-        print('Congrats!')
+# if click:
+#     Like += 1 
+#     click = False
+#     if Like >= 1:
+#         print('Congrats!')
 
-print(Like)
+# print(Like)
+
+TestList = ["element1","element2",654, 789, "fish"]
+
+
+TestList[0] = 55
+print(TestList)
